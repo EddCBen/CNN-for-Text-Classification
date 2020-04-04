@@ -5,6 +5,6 @@ Neural Networks for Sentence Classification
 
 ![](Model.PNG)
 
-
+###Results after only one Epoch:
 
 ![](Training_results.PNG	)
